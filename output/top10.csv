@@ -1,0 +1,11 @@
+county_name,composite_risk_score,risk_rank,primary_risk_driver,poverty_rate,svi_score
+Humphreys,0.9822,1,High obesity prevalence,56.5,1.0
+Sharkey,0.9599,2,High diabetes prevalence,49.1,0.9383
+Holmes,0.8894,3,High social vulnerability,50.3,0.963
+Jefferson,0.8739,4,High obesity prevalence,50.6,0.7901
+Quitman,0.8649,5,High obesity prevalence,47.8,0.8519
+Tunica,0.8121,6,High obesity prevalence,48.7,0.8765
+Coahoma,0.7901,7,High social vulnerability,49.3,0.9506
+Washington,0.7651,8,High social vulnerability,43.2,0.9877
+Noxubee,0.7592,9,High social vulnerability,37.2,0.9136
+Yazoo,0.7468,10,High social vulnerability,42.0,0.9753

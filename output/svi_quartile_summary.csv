@@ -1,0 +1,5 @@
+vulnerability_tier,county_count,avg_diabetes,avg_obesity,avg_hypertension,avg_poverty
+High vulnerability (Q4),21,20.53,46.84,51.88,43.43
+Medium-high (Q3),20,17.43,42.98,47.73,36.52
+Medium-low (Q2),20,16.54,41.64,46.84,31.98
+Low vulnerability (Q1),21,14.47,38.52,43.31,27.87

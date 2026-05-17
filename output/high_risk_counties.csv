@@ -1,0 +1,17 @@
+county_name,population,composite_risk_score,diabetes_rate,obesity_rate,poverty_rate,svi_score,primary_risk_driver
+Humphreys,7744,0.9822,24.7,52.4,56.5,1.0,High obesity prevalence
+Sharkey,3910,0.9599,25.2,50.3,49.1,0.9383,High diabetes prevalence
+Holmes,16848,0.8894,23.3,50.7,50.3,0.963,High social vulnerability
+Jefferson,7207,0.8739,23.6,51.5,50.6,0.7901,High obesity prevalence
+Quitman,6113,0.8649,22.8,51.2,47.8,0.8519,High obesity prevalence
+Tunica,9787,0.8121,21.4,51.0,48.7,0.8765,High obesity prevalence
+Coahoma,21264,0.7901,21.8,46.4,49.3,0.9506,High social vulnerability
+Washington,44604,0.7651,21.0,44.2,43.2,0.9877,High social vulnerability
+Noxubee,10261,0.7592,21.2,46.4,37.2,0.9136,High social vulnerability
+Yazoo,27467,0.7468,18.5,50.5,42.0,0.9753,High social vulnerability
+Bolivar,30688,0.7447,20.5,46.5,47.1,0.9259,High social vulnerability
+Leflore,27920,0.7034,20.9,43.4,48.8,0.8889,High social vulnerability
+Sunflower,25867,0.7022,19.3,48.6,41.8,0.8272,High social vulnerability
+Pike,40098,0.673,18.9,46.0,40.8,0.8395,High social vulnerability
+Adams,29425,0.659,20.6,41.2,41.5,0.8025,High social vulnerability
+Tallahatchie,12621,0.6547,18.9,44.9,40.0,0.8148,High social vulnerability

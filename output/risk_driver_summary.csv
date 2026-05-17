@@ -1,0 +1,6 @@
+primary_risk_driver,county_count,avg_risk_score
+High social vulnerability,32,0.554
+High hypertension prevalence,23,0.3782
+High COPD prevalence,17,0.3693
+High obesity prevalence,9,0.7095
+High diabetes prevalence,1,0.9599
